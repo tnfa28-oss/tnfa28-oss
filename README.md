@@ -52,7 +52,7 @@ Je m'intéresse à la **data science, au machine learning, à Python et à l'IA*
 |**Chevauchement entre pauvreté monétaire et privation matérielle en Côte d’Ivoire (EHCVM 2021)**: ACP, ACM, AFC | réalisation de l’ensemble des analyses| SPAD, R | [Voir le dépôt](https://github.com/tnfa28-oss/material-deprivation-cote-divoire) |
 |**Bibliothèques mathématiques en Python**: fractions, nombres complexes, séries|auteure unique.|Python | [Voir le dépôt](https://github.com/tnfa28-oss/python-math-libraries) |
 |**Cartographie de la population ivoirienne par région**: cartes de densité et de répartition par sexe.| auteure unique |ArcGIS (ArcMap) | [Voir le dépôt](https://github.com/tnfa28-oss/cartographie-c-te-d-ivoire-arcgis)   | 
-|**Gestion de projets immobiliers**: application Excel/VBA (version 1).| développeuse et designeuse principale, projet de groupe de trois. | VBA, Excel. | [Voir le dépôt](https://github.com/tnfa28-oss/gestion-projets-immobiliers-vba)                                           |
+|**Gestion de projets immobiliers**: application Excel/VBA (version 1).| développeuse et designeuse principale, projet de groupe de trois. | VBA, Excel. | [Voir le dépôt](https://github.com/tnfa28-oss/gestion-projets-immobiliers-vba)  |
 
 
 ### Compétences
